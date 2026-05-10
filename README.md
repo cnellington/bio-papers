@@ -1,4 +1,4 @@
-# bio-papers
+# Top 30 Bio Reading List
 
 A list of ~30 papers to understand 90% of modern biology.
 
